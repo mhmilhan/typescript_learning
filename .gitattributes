@@ -1,6 +1,6 @@
 # Prioritize TypeScript files
 *.ts linguist-detectable=true
-*.ts linguist-detectable=false
+*.js linguist-detectable=false
 **/*.ts linguist-detectable=true
 
 # Lower priority for HTML files in the root folder
